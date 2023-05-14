@@ -51,5 +51,7 @@ public interface Sample {
 ```
 
 - Este exemplo é uma implementação genérica, mas você pode personalizá-lo para atender às suas necessidades específicas.
-Contribuição
-- Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
